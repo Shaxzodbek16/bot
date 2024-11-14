@@ -1,3 +1,5 @@
+import logging
+
 from aiogram import Router, F
 from aiogram.types import Message
 from utils.youtube import download_youtube_video

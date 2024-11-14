@@ -1,3 +1,5 @@
+import logging
+
 from aiogram import Router, F
 from aiogram.types import Message
 from utils.instagram import download_instagram_post

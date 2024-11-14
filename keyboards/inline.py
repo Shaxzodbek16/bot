@@ -5,6 +5,6 @@ def get_website_keyboard():
     keyboard = InlineKeyboardMarkup()
     keyboard.add(InlineKeyboardButton(
         text="Visit Our Website",
-        url="https://azimjon.com"
+        url="https://shaxzodbek.com/"
     ))
     return keyboard

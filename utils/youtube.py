@@ -1,3 +1,5 @@
+import logging
+
 from pytube import YouTube
 import os
 
