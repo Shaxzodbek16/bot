@@ -9,6 +9,7 @@ __pycache__/
 .idea/
 telegram-bot-api/
 telegram-bot-api
+*.binlog
 # Distribution / packaging
 .Python
 build/
