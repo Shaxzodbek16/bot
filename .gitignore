@@ -12,7 +12,8 @@ staticfiles
 migrations/000*.py
 telegram-bot-api
 telegram-bot-api/
-
+downloads
+downloads/
 venv/
 venv
 .env
@@ -23,7 +24,6 @@ venv
 build/
 develop-eggs/
 dist/
-downloads/
 eggs/
 .eggs/
 lib/
